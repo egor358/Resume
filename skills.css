@@ -1,0 +1,129 @@
+body{
+    background-color: #E5D7BE;
+   }
+.container{
+    width: 1200px;
+    height: 1000px;
+    margin: 0 auto 0 auto;
+    background-color: #414754;
+    
+    }
+.left-content {
+  vertical-align: top;
+  float: left;
+  padding: 30px 0 0 30px;
+ 
+}
+.left-content img{
+    margin-left: 40px;
+    margin-top: 100px;
+    width: 170px;
+    height: 170px;
+    border-radius: 100px;
+ }
+ 
+.left-content ul img{
+    width: 20px;  
+ height: 20px;
+ margin: 10px 2px;
+
+}
+.left-content li{
+    list-style: none;
+
+}
+
+ .left-content ul a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+.left-content h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    text-align: center;
+}    
+nav a{
+     color: #414754;
+text-decoration: none;
+}
+nav a:hover{
+     color: #82807F;
+}
+nav li{
+    display: inline;
+   }
+   .right-content{
+    float: right;
+    background-color: #E3E8F0;
+    width: 900px;
+    height: 100%;
+    }
+    .right-content ul{
+        margin-top: 60px;
+        font-family: Arial, Helvetica, sans-serif;
+margin-left: -15px;
+    }
+    .right-content p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        margin: 0 0 0 15px;
+    }
+
+    .right-content h2 {
+        margin-top: 50px;
+        height: 35px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+background-color: #414754;
+border-radius: 8px 8px 0 0;
+padding: 5px 0 0 10px;
+}
+
+    .color{
+        
+    background: white;
+    height: 100px;
+    border-radius: 8px 8px ;
+    margin: 0 25px 0 25px;
+}
+.table{
+    
+    background: white;
+    height: 155px;
+    border-radius: 8px 8px ;
+    margin: 0 25px 0 25px;
+}
+.table table{
+     width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+.column{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 10px;
+}
+
+    .footer{
+     
+        background: white;
+        height: 155px;
+        border-radius: 8px 8px;
+        margin: 0 25px 0 25px;
+    } 
+    .footer table{
+     
+        width: 100%;
+        border-collapse: collapse;
+        text-align: center; 
+    }
+    .column2{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0 10px;  
+    }
+   
+   
+
