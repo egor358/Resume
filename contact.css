@@ -1,0 +1,111 @@
+body{
+    background-color: #E5D7BE;
+}
+.container{
+    width: 1200px;
+    height: 1000px;
+    margin: 0 auto 0 auto;
+    }
+.content-wrapper{
+    width: 70%;
+    height: 100%;
+    background-color: #E3E8F0;
+    float: right;
+}
+.content-wrapper li{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+   
+}
+.content-wrapper a{
+    color: #414754;
+    text-decoration: none;
+}
+.content-wrapper a:hover{
+    color: #82807F;
+}
+.header{
+    border: 1px solid black;
+    background-color: white;
+    height: 100px;
+    width: 750px;
+   border-radius: 10px;
+   margin-left: 40px;
+   
+   
+  }
+.header p{
+    font-family: Arial, Helvetica, sans-serif;
+padding: 0 0 10px 15px;
+}
+.header h2{
+    margin: 0;
+   background-color: #414754;
+   padding: 5px 0 0 5px;
+   border-radius: 10px 10px 0 0;
+   height: 35px;
+   
+}
+.message{
+    
+border: 1px solid black ;
+   background-color: white;
+    height: 265px;
+    width: 750px;
+   border-radius: 10px;
+   margin-left: 40px; 
+   margin-top: 20px; 
+}
+.message label{
+  display: block;
+ margin-top: 25px;           
+
+}
+form{
+    padding: 10px 0 0 15px;
+}
+
+.message button{
+    display: block;
+    margin: 10px 0 0 0 ; 
+}
+.left-content{
+background-color: #414754;
+float: left;
+width: 30%;
+height: 100%;
+   }
+   .left-content img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin-left: 80px;
+    margin-top: 100px;
+    }
+.left-content h2{
+text-align: center;
+}
+.tiktok img{
+    width: 20px;
+    height: 20px;
+    margin: 10px 0 0 50px;
+}
+.tiktok{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.map{
+    border: 1px solid black;
+    background-color: white;
+    width: 750px;
+   margin: 10px 0 0 40px;
+   border-radius: 10px;
+}
+.map h2{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.map iframe{
+    margin-left: 25px;
+}
+
